@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T02:19:10.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="RYVlr5xZ0iovz3ahge2P" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T02:31:39.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="uq_ICMGRcXTm4Aqk-yFy" version="13.8.5" type="github">
   <diagram id="pFHNbLprS0CvGZzR183H" name="第 1 页">
     <mxGraphModel dx="866" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pjRl3x3YbXFrnQ3nHP1f-2" target="pjRl3x3YbXFrnQ3nHP1f-6">
+        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pjRl3x3YbXFrnQ3nHP1f-2" target="pjRl3x3YbXFrnQ3nHP1f-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="310" as="targetPoint" />
+            <mxPoint x="550" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pjRl3x3YbXFrnQ3nHP1f-12" value="人/车名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pjRl3x3YbXFrnQ3nHP1f-8">
@@ -17,24 +17,13 @@
         <mxCell id="pjRl3x3YbXFrnQ3nHP1f-2" value="移动端" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.mobile" vertex="1" parent="1">
           <mxGeometry x="250" y="140" width="56" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pjRl3x3YbXFrnQ3nHP1f-3" target="pjRl3x3YbXFrnQ3nHP1f-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="177" y="305" />
-              <mxPoint x="330" y="305" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-11" value="人/车名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pjRl3x3YbXFrnQ3nHP1f-7">
-          <mxGeometry x="-0.4745" y="22" relative="1" as="geometry">
-            <mxPoint x="0.009999999999999787" y="-13" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pjRl3x3YbXFrnQ3nHP1f-3" value="自主办理一体机" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_blank" vertex="1" parent="1">
           <mxGeometry x="130" y="140" width="93.02" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pjRl3x3YbXFrnQ3nHP1f-4" target="pjRl3x3YbXFrnQ3nHP1f-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pjRl3x3YbXFrnQ3nHP1f-4" target="pjRl3x3YbXFrnQ3nHP1f-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pjRl3x3YbXFrnQ3nHP1f-13" value="人/车名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pjRl3x3YbXFrnQ3nHP1f-9">
           <mxGeometry x="-0.3097" y="1" relative="1" as="geometry">
@@ -44,8 +33,10 @@
         <mxCell id="pjRl3x3YbXFrnQ3nHP1f-4" value="电脑端" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.computer" vertex="1" parent="1">
           <mxGeometry x="330" y="140" width="88.89" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pjRl3x3YbXFrnQ3nHP1f-5" target="pjRl3x3YbXFrnQ3nHP1f-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pjRl3x3YbXFrnQ3nHP1f-5" target="pjRl3x3YbXFrnQ3nHP1f-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pjRl3x3YbXFrnQ3nHP1f-14" value="人脸抓拍" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pjRl3x3YbXFrnQ3nHP1f-10">
           <mxGeometry x="-0.6946" relative="1" as="geometry">
@@ -55,17 +46,26 @@
         <mxCell id="pjRl3x3YbXFrnQ3nHP1f-5" value="通勤车考勤机" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.application_blank" vertex="1" parent="1">
           <mxGeometry x="454" y="140" width="93.02" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-6" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.server" vertex="1" parent="1">
-          <mxGeometry x="250" y="390" width="160" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-15" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.enterprise.firewall;" vertex="1" parent="1">
-          <mxGeometry x="650" y="380" width="50" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="pjRl3x3YbXFrnQ3nHP1f-16" value="ISC平台" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="1">
-          <mxGeometry x="860" y="280" width="38.4" height="80" as="geometry" />
+          <mxGeometry x="184.62" y="545" width="38.4" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pjRl3x3YbXFrnQ3nHP1f-17" value="智慧鱼山外网平台" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="1">
-          <mxGeometry x="850" y="470" width="38.4" height="80" as="geometry" />
+          <mxGeometry x="410" y="530" width="38.4" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-15" value="防火墙" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#f8cecc;shape=mxgraph.mscae.enterprise.firewall;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="127.27" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pjRl3x3YbXFrnQ3nHP1f-3" target="pjRl3x3YbXFrnQ3nHP1f-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="176.51" y="220" as="sourcePoint" />
+            <mxPoint x="470" y="414" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pjRl3x3YbXFrnQ3nHP1f-19" value="人/车名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pjRl3x3YbXFrnQ3nHP1f-18">
+          <mxGeometry x="-0.4745" y="22" relative="1" as="geometry">
+            <mxPoint x="0.009999999999999787" y="-13" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
